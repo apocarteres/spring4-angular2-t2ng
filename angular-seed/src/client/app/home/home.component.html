@@ -1,0 +1,10 @@
+Want to find some person by role?
+<form (submit)="find()">
+  <input [(ngModel)]="roleName" name="roleName" placeholder="Role name">
+  <button type="submit">Find</button>
+</form>
+
+<div *ngIf="person">
+  Huurah!! We found person {{person.name}} of age {{person.age}}
+</div>
+

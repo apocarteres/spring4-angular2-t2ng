@@ -1,0 +1,1 @@
+/Users/sandro/work/repo/spring4-angular2-t2ng/angular-seed/../thrift/src/t2ng.demo/ts/person.d.ts
